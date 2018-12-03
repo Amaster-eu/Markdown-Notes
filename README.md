@@ -2,12 +2,12 @@
 
 Заметки сделаны на основе оригинальной статьи [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
+<a name="headers"><h2>Заголовки</h2></a>
+
 ```no-highlight
 # H1
 ```
 # H1
-
-<a name="headers"><h2>Заголовки</h2></a>
 
 ```no-highlight
 ## H2
