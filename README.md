@@ -2,48 +2,10 @@
 
 Заметки сделаны на основе оригинальной статьи [Markdown-Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <h2>Good</h2>
-        <pre><code class="language-c">int foo (void) 
-{
-    int i;
-}
-</code></pre>
-    </div>
-    <div style="display: inline-block;">
-        <h2>Bad</h2>
-        <pre><code class="language-c">int foo (void) {
-    int i;
-}
-</code></pre>
-    </div>
-</div>
-
-<style>
- .grid {
-  display: flex;
- }
-.col-1-2 {
-  flex: 1;
-}
-.cole-1-2:last-child {
-  margin-left: 20px;
-}
-</style>
-
-<div class="grid">
-    <div class="col-1-2">
-       <div class="content">
-           <p>...insert content left side...</p>
-       </div>
-    </div>
-    <div class="col-1-2">
-       <div class="content">
-           <p>...insert content right side...</p>
-       </div>
-    </div>
-</div>
+```no-highlight
+# H1
+```
+# H1
 
 <a name="headers"><h2>Заголовки</h2></a>
 
